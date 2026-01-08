@@ -1,0 +1,32 @@
+# Build outputs
+build/
+bin/
+out/
+cmake-build-*/
+
+# Compiled objects and libraries
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.a
+*.lib
+
+# CMake generated artifacts
+CMakeFiles/
+CMakeCache.txt
+Makefile
+compile_commands.json
+
+# IDE metadata
+.vscode/
+.idea/
+.vs/
+
+# OS-specific clutter
+.DS_Store
+Thumbs.db
+
+# Placeholder assets
+assets/screenshot-placeholder.png
